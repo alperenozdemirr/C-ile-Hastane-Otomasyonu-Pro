@@ -1,0 +1,58 @@
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.giris.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.kayit.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.password1.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CopyComplete
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Randevu.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.AcilVeri.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Doktor.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Acilkayit.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.RandevuMuayne.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Admin.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.PasswordDoktor.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.AdminPassword.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.AdminGiris.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.AdminEkle.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.DoktorEkle.resources
+C:\Users\qeuru\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Rapor.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Acilkayit.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.AcilVeri.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Admin.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.AdminEkle.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.AdminGiris.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.AdminPassword.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Doktor.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.DoktorEkle.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.giris.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.kayit.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.password1.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.PasswordDoktor.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Randevu.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.RandevuMuayne.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Rapor.resources
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CopyComplete
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\qeuru\Desktop\Masaüstü Pc dosyalar\laptop atılacaklar\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
